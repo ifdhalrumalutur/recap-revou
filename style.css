@@ -1,0 +1,9 @@
+h2{
+    background: green;
+}
+header{
+    background: aqua;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
